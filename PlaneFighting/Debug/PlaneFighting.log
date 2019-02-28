@@ -1,0 +1,44 @@
+﻿  CBg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  CBlowUp.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  CBoss.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+d:\myprojects\gameprojects\planefighting\planefighting\cboss.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+d:\myprojects\gameprojects\planefighting\planefighting\cboss.cpp(47): warning C4018: “<”: 有符号/无符号不匹配
+d:\myprojects\gameprojects\planefighting\planefighting\cboss.cpp(67): warning C4018: “<”: 有符号/无符号不匹配
+d:\myprojects\gameprojects\planefighting\planefighting\cboss.cpp(121): warning C4018: “<”: 有符号/无符号不匹配
+  CGameAI.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+d:\myprojects\gameprojects\planefighting\planefighting\cgameai.cpp(76): warning C4018: “<”: 有符号/无符号不匹配
+d:\myprojects\gameprojects\planefighting\planefighting\cgameai.cpp(113): warning C4018: “<”: 有符号/无符号不匹配
+d:\myprojects\gameprojects\planefighting\planefighting\cgameai.cpp(118): warning C4018: “<”: 有符号/无符号不匹配
+d:\myprojects\gameprojects\planefighting\planefighting\cgameai.cpp(436): warning C4018: “<”: 有符号/无符号不匹配
+d:\myprojects\gameprojects\planefighting\planefighting\cgameai.cpp(451): warning C4018: “<”: 有符号/无符号不匹配
+d:\myprojects\gameprojects\planefighting\planefighting\cgameai.cpp(480): warning C4018: “<”: 有符号/无符号不匹配
+d:\myprojects\gameprojects\planefighting\planefighting\cgameai.cpp(516): warning C4018: “<”: 有符号/无符号不匹配
+d:\myprojects\gameprojects\planefighting\planefighting\cgameai.cpp(590): warning C4018: “<”: 有符号/无符号不匹配
+d:\myprojects\gameprojects\planefighting\planefighting\cgameai.cpp(615): warning C4018: “<”: 有符号/无符号不匹配
+d:\myprojects\gameprojects\planefighting\planefighting\cgameai.cpp(627): warning C4018: “<”: 有符号/无符号不匹配
+d:\myprojects\gameprojects\planefighting\planefighting\cgameai.cpp(659): warning C4018: “<”: 有符号/无符号不匹配
+d:\myprojects\gameprojects\planefighting\planefighting\cgameai.cpp(668): warning C4018: “<”: 有符号/无符号不匹配
+d:\myprojects\gameprojects\planefighting\planefighting\cgameai.cpp(673): warning C4018: “<”: 有符号/无符号不匹配
+d:\myprojects\gameprojects\planefighting\planefighting\cgameai.cpp(724): warning C4018: “<”: 有符号/无符号不匹配
+d:\myprojects\gameprojects\planefighting\planefighting\cgameai.cpp(744): warning C4018: “<”: 有符号/无符号不匹配
+d:\myprojects\gameprojects\planefighting\planefighting\cgameai.cpp(781): warning C4018: “<”: 有符号/无符号不匹配
+  CMyMenu.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  CPlane.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+d:\myprojects\gameprojects\planefighting\planefighting\cplane.cpp(78): warning C4018: “<”: 有符号/无符号不匹配
+  CPlayer.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+d:\myprojects\gameprojects\planefighting\planefighting\cplayer.cpp(86): warning C4018: “<”: 有符号/无符号不匹配
+  CShell.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Sound.cpp
+  Window.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Input.cpp
+  正在生成代码...
+  PlaneFighting.vcxproj -> D:\MyProjects\GameProjects\PlaneFighting\Debug\PlaneFighting.exe
